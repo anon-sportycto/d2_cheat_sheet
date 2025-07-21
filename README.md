@@ -1,13 +1,22 @@
 # Diablo 2 Cheat Sheet
 
+**NEW:** (Desktop)
+* [D2 Cheat Sheet](https://michaelangel007.github.io/d2_cheat_sheet/)
+
+**NEW:** (Mobile)
+* [D2 Cheat Sheet](https://michaelangel007.github.io/d2_cheat_sheet/mobile.html)
+
+**OLD:**
 * [Cheat Sheet](https://htmlpreview.github.io/?https://github.com/Michaelangel007/d2_cheat_sheet/blob/master/index.html)
 
 # QoL Features
 
  * Readable on desktop and mobile
+ * "Smart" anchors in the URL.  One can omit the `table.` in the URL:
+   * e.g. `#totals` is the same as: `#table.totals`
  * Interactive -- tooltips for runes and runewords (now includes Patch 2.6)
    * Yellow highlight hover row pointer for all tables
- * click on runes to toggle "rune ownership"
+ * Click on runes to toggle "rune ownership"
    * Clean visual rune upgrades
    * Hover over rune to see details
    * Rune chest dropping and farming info
@@ -37,20 +46,25 @@
  * Gambling odds and few items (new in v1.33)
  * Holy Grail tracking -- no need to login, continue where you left off time you (re)load the page
    * Can sort by Owned Misc., Owned Sets, Set Names, Owned Uniques, Unique Names, Base Name or TC
+ * Armor "Occupancy" Grid
+   * List base/set/uniques for normal, exceptional, elite items
+   * Don't get scammed from someone trying to pass of an unidentified green set item claiming it is _Tal Rasha's Horadric Crest_ (Death Mask) when it really is _Cathan's Visage_ (Mask)
+   * To be informed is to be forewarned!
  * Essences farming
  * Pandemonium Event (key/organ farming)
  * Shopping tables
  * Tomb locations
  * Upped uniques
+ * Version Switcher (See Cactus under Misc. Links)
  * XP Tables
     * Power Leveling
     * Level for each difficulty & area
+    * Full XP from Level 1 to 99
  * 4os sword farming
  * 85 alvl (TC 84/87) farming info  (Updated for Patch 2.4)
  * Monochrome/Color buttons
  * Lots of handy links to utils, calculators, etc.!
  * Thanks to everyone that caught bugs and offered suggestions.
-
 
 Special thanks to walkawayy for 2.4 Runewords, Wyrda65 for updated alvl 85 info.
 
@@ -111,8 +125,7 @@ Special thanks to walkawayy for 2.4 Runewords, Wyrda65 for updated alvl 85 info.
  * Add map layout hints -- see https://docs.google.com/spreadsheets/d/1UQP7PjHgCJWN-s42bUtGsR18f9GNh7JJ15QE7D6CnHE/edit#gid=0
  * Customize yellow hover color
  * Eth bugging def table for classic D2
- * Full xp table?
- * Table header pop-up instructions --  -- pisseningly
+ * Table header pop-up instructions -- pisseningly
  * Diminishing MF -- gekido2802 -- https://diablo2.diablowiki.net/Magic_find_diminishing_returns
  * Base weapon speed mods -- Lokhe -- http://classic.battle.net/diablo2exp/items/elite/swords.shtml
  * `Layout` edit mode -- Issue #22
@@ -123,4 +136,4 @@ Special thanks to walkawayy for 2.4 Runewords, Wyrda65 for updated alvl 85 info.
  * url param to keep state of collapsed tables.  Not needed since table collapse state is persistent. (Fixed in version 1.84)
 
 
-Last Updated: Sun, Feb 26, 2023.
+Last Updated: Sunday, Mar. 5, 2025.
